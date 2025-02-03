@@ -17,7 +17,7 @@ const data = [
     {key: 1, title: "Sigma?", role: "CEO", },
     {key: 2, title: "Alpha?", role: "COO", },
     {key: 3, title: "Beta?", role: "Chief Product Officer", },
-    {key: 4, title: "Gamma?", role: "CTO", img: img4},
+    {key: 4, title: "Gamma?", role: "CTO", },
     {key: 5, title: "Delta?", role: "Chief Innovation Officer", },
     {key: 6, title: "Ninja?", role: "VP of Marketing", },
     {key: 7, title: "Low taper fade?", role: "VP of Engineering", },
