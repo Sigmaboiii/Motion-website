@@ -14,15 +14,15 @@ import { gsap } from "gsap";
 import { Power4} from 'gsap/gsap-core';
 
 const data = [
-    {key: 1, title: "Sigma?", role: "CEO", img: img1},
-    {key: 2, title: "Alpha?", role: "COO", img: img2},
-    {key: 3, title: "Beta?", role: "Chief Product Officer", img: img3},
+    {key: 1, title: "Sigma?", role: "CEO", },
+    {key: 2, title: "Alpha?", role: "COO", },
+    {key: 3, title: "Beta?", role: "Chief Product Officer", },
     {key: 4, title: "Gamma?", role: "CTO", img: img4},
-    {key: 5, title: "Delta?", role: "Chief Innovation Officer", img: img5},
-    {key: 6, title: "Ninja?", role: "VP of Marketing", img: img6},
-    {key: 7, title: "Low taper fade?", role: "VP of Engineering", img: img7},
-    {key: 8, title: "Rizzler?", role: "VP of Product", img: img8},
-    {key: 9, title: "Kai cenat?", role: "VP of Partnerships", img: img9},
+    {key: 5, title: "Delta?", role: "Chief Innovation Officer", },
+    {key: 6, title: "Ninja?", role: "VP of Marketing", },
+    {key: 7, title: "Low taper fade?", role: "VP of Engineering", },
+    {key: 8, title: "Rizzler?", role: "VP of Product", },
+    {key: 9, title: "Kai cenat?", role: "VP of Partnerships", },
 ]
 
 
